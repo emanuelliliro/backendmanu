@@ -1,0 +1,22 @@
+{
+ 
+
+  "name": "backendmanu",
+  "version": "1.0.0",
+  "description": "Servidor de Backend para Estudos",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "zod"
+  ],
+  "author": "Emanuelli Roncolato de Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
